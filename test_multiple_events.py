@@ -32,4 +32,4 @@ for i, event in enumerate(events, 1):
     print(f"{i}. {event['pageTitle']}: Status {response.status_code}")
     time.sleep(1)
 
-print("\n 💯All events sent Check .dashboard at http://localhost:8585/")
+print("\n 💯All events sent Check dashboard at http://localhost:8585/")
