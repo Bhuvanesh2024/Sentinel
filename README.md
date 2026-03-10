@@ -1,7 +1,13 @@
 # tirreno
 
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px;">
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec30c28f67de476f8b98d2798079bdf0)](https://app.codacy.com/gh/TirrenoTechnologies/tirreno/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Docker Pulls](https://img.shields.io/docker/pulls/tirreno/tirreno?style=flat)](https://hub.docker.com/r/tirreno/tirreno/)
+[![Research](https://img.shields.io/badge/Research-Papers-9cf?style=flat&logo=academia)](https://github.com/tirrenotechnologies/tirreno#research-papers)
+[![License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+</div>
 
 <p align="center">
     <a href="https://www.tirreno.com/" target="_blank">
@@ -116,6 +122,44 @@ composer require tirreno/tirreno
 ## Documentation
 
 See the [User guide](https://docs.tirreno.com/) for details on how to use tirreno, [Developers documentation](https://github.com/tirrenotechnologies/DEVELOPMENT.md) to customize your integration, [Admin documentation](https://github.com/tirrenotechnologies/ADMIN.md) for installation, maintenance and updates.
+
+## Research Papers
+
+tirreno's approach to behavioral analytics and threat detection is grounded in academic research and industry best practices:
+
+### Core Research Foundation
+
+**1. User Behavior Analytics for Attack Detection**
+- 📄 [User Behavior Analytics for HTTP-GET Flood Attack Detection](https://www.researchgate.net/publication/User_Behavior_Analytics_for_HTTP-GET_Flood_Attack_Detection)
+  - *Focus*: Behavioral pattern analysis for detecting volumetric attacks
+  - *Relevance*: Foundation for tirreno's velocity-based detection rules
+
+**2. AI-Driven Behavioral Analytics**
+- 📄 [AI-Driven Behavioral Analytics for Web Application Intrusion Detection Systems: A Machine Learning Approach to Anomaly Detection](https://www.researchgate.net/publication/392369007_AI-Driven_Behavioral_Analytics_for_Web_Application_Intrusion_Detection_Systems_A_Machine_Learning_Approach_to_Anomaly_DetectionAI-Driven)
+  - *Focus*: Machine learning techniques for web application security
+  - *Relevance*: Informs tirreno's anomaly detection algorithms and risk scoring mechanisms
+
+**3. Web Application Security Architecture**
+- 📄 [Research on Web Application Security Detection Technology (Scientific.net)](https://www.scientific.net/AMM.411-414.607)
+  - *Focus*: Security detection methodologies for web applications
+  - *Relevance*: Architectural principles for application-layer threat detection
+
+**4. Intrusion Detection Systems**
+- 📄 [Computer & Security Journal - Web Application Intrusion Detection](https://www.sciencedirect.com/science/article/abs/pii/S1084804518301176)
+  - *Focus*: Advanced intrusion detection techniques for web applications
+  - *Relevance*: Multi-layered detection approach and real-time analysis strategies
+
+### Key Research Areas Applied in tirreno
+
+- **Behavioral Pattern Recognition**: Analyzing user activity sequences to identify anomalies
+- **Real-Time Threat Intelligence**: Sub-second event processing and risk calculation
+- **Identity Correlation**: Graph-based analysis of connected accounts and shared attributes
+- **Adaptive Risk Scoring**: Dynamic threshold adjustment based on contextual factors
+- **Application-Layer Security**: Focus on business logic abuse and account compromise
+
+### Contributing Research
+
+We welcome academic collaboration and research partnerships. If you're conducting research in behavioral security analytics, fraud detection, or application security, please reach out to research@tirreno.com.
 
 ## About
 
