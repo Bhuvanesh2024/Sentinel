@@ -208,8 +208,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU Affero General Public License along with this program. If not, see [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.txt).
 
-## Authors
 
-tirreno Copyright (C) 2026 tirreno technologies sàrl, Vaud, Switzerland. (License AGPLv3)
-
-'t'
